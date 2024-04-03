@@ -5,7 +5,7 @@ const path = require('path')
 
 // Initialize express app
 const app = express()
-const port = 3000
+const port = 3001
 
 // Configure storage for multer
 const storage = multer.diskStorage({
